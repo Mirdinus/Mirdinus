@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirdinus and all that below is TBD
+- 👋 Hi, I’m @Mirdinus
 
 - 👀 I’m interested in IoT, Security and Go
 - 🌱 I’m currently learning Go
